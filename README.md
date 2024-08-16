@@ -20,6 +20,6 @@ The model undergoes rigorous training using the training dataset, with performan
 
 ## Results
 
-Our trained model achieves impressive accuracy in predicting dog breeds on unseen images. The project documentation provides detailed insights into the results, including prediction examples and comprehensive performance metrics.
+trained model achieves impressive accuracy in predicting dog breeds on unseen images. The project documentation provides detailed insights into the results, including prediction examples and comprehensive performance metrics.
 
 
